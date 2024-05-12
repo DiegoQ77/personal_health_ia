@@ -1,0 +1,11 @@
+admin
+yl1ZcEWnZZujVwwH
+
+my database echema 
+https://cloud.mongodb.com/v2/6632e860969b3377b4adbf2f#/metrics/replicaSet/6632e9564160092eeca0540d/explorer/Node-API/products/find
+
+Video midudev
+https://www.youtube.com/watch?v=ZpY5KdGQvwI&t=862s
+Video free code camp
+https://www.youtube.com/watch?v=_7UQPve99r4
+Siguientes pasos implementar el login con jwt 

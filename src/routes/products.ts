@@ -3,11 +3,11 @@ import express from "express";
 const router = express.Router();
 
 router.get("/", (_req, res) => {
-  res.send("Campeon de la libertadores");
+  res.send({ data: "dummy" });
 });
 
-router.post("", (_req, res) => {
-  res.send("pong");
+router.post("/", (_req, res) => {
+  res.send({ data: "dummy" });
 });
 
 export default router;
